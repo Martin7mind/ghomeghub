@@ -1,5 +1,7 @@
 # Google home + github notifications
 
+Run this code on your computer and it will check for new github notifications every minute, and read them to you through your Google Home speaker
+
 ## Install
 1. copy .env_default and rename to .env
 2. go to https://github.com/settings/tokens and create a token with notification scope and put it in .env
